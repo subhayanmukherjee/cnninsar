@@ -3,6 +3,6 @@ First ever Convolutional Neural Network-based filtering and point-wise signal qu
 
 Please cite the below [paper](https://doi.org/10.1109/ICSENS.2018.8589920) if you use the code in its original or modified form:
 
-*“CNN-based InSAR Denoising and Coherence Metric”, 17th IEEE Sensors, Oct 28-31, 2018, New Delhi, India*
+*S. Mukherjee, A. Zimmer, N. K. Kottayil, X. Sun, P. Ghuman and I. Cheng, "CNN-Based InSAR Denoising and Coherence Metric," 2018 IEEE SENSORS, New Delhi, 2018, pp. 1-4.*
 
 ## Guidelines
