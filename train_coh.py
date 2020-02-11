@@ -19,20 +19,14 @@ import os
 from sklearn.feature_extraction.image import extract_patches_2d
 from skimage.transform import resize
 from keras.models import load_model
-#from statsmodels import robust
 import h5py
-#import cv2
 from coherence import estimate_coherence
-#from skimage.filters import threshold_otsu
-#from skimage.morphology import white_tophat, square
 from skimage.segmentation import chan_vese
 from skimage.segmentation import felzenszwalb
 from skimage.measure import label
 from skimage.util import pad
 from scipy import ndimage, stats
-#from skimage.restoration import richardson_lucy, wiener
 from time import time
-from skimage.filters import threshold_minimum, threshold_otsu
 import math
 
 ifg_hdf5_path = '/home/subhayanmukherjee/Documents/MRC-3vG-CARIC/suba/cohqal/testieees/train/ifg_patches.hdf5'
